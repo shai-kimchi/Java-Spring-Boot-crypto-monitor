@@ -1,0 +1,7 @@
+gun,100
+drugs,100
+weapon,100
+weapons,100
+guns,100
+java,100
+currency,200

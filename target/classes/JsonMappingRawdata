@@ -1,0 +1,24 @@
+{
+    "mappings" : {
+    "properties" : {
+      "country" : {
+        "type" : "text"
+      },
+      "guid" : {
+        "type" : "text",
+      },
+      "url" : {
+        "type" : "text",
+      },
+      "ip" : {
+        "type" : "text",
+      },
+      "htmlContent" : {
+        "type" : "text",
+      },
+      "text" : {
+        "type" : "text",
+      }
+    }
+    }
+}
